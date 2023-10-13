@@ -1,0 +1,17 @@
+@media only screen and (min-width: 768px) {
+
+    /* ++++++++++++++ CARDS ++++++++++++++ */
+
+    .card-container {
+        display: flex;
+        align-items: center;
+    }
+
+    .first {
+        border-radius: 1rem 0 0 1rem;
+    }
+
+    .third {
+        border-radius: 0 1rem 1rem 0;
+    }
+}
